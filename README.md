@@ -1,2 +1,2 @@
-# firstName
-first project shopping cart
+# Basic Project
+Building basic application - **Shopping Cart**
